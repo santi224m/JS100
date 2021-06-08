@@ -1,0 +1,5 @@
+This following are not acceptable for naming variables, functions, or constants:
+
+1stCharacter  - cannot start with numbers
+snake_case  - constants can contain underscore but must use uppercase letters
+quick_fox

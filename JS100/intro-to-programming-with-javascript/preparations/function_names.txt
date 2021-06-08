@@ -1,0 +1,13 @@
+correct names for functions:
+
+index
+lazyDog
+operand2
+CatName
+
+incorrect names for functions:
+
+snake_case
+quick_fox
+1stCharacter
+BIG_NUMBER

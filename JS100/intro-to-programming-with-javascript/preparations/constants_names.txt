@@ -1,0 +1,13 @@
+correct names for constants:
+
+BIG_NUMBER
+CatName
+
+Incorrect names for constants:
+
+index
+snake_case
+lazyDog
+quick_fox
+1stCharacter
+operand2

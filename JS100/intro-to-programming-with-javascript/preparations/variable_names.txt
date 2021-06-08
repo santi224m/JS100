@@ -1,0 +1,13 @@
+correct styling for variables:
+
+index
+lazyDog
+operand2
+
+incorrect styling for variables:
+
+snake_case
+quick_Fox
+1stCharacter
+CatName
+BIG_NUMBER
